@@ -1,4 +1,3 @@
-# RunnerGame
 
 ![](https://i.imgur.com/PZI43as.gif)
 
